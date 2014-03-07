@@ -6,7 +6,7 @@
 /*
 Plugin Name: Ancestor Bodyclass
 Plugin URI: https://github.com/cfenzo/wordpress-plugin-AncestorBodyClass
-Description: A small util to add "ancestor-[slug]" as class on the body
+Description: A small util to add "ancestor-[slug]" as class on the body. Based on this snippet from Klark: http://digwp.com/2009/08/wordpress-body-class-plus/#comment-1355
 Author: Jens Anders Bakke
 Version: 1.0
 Author URI: https://github.com/cfenzo/
